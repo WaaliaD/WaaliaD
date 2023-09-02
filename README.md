@@ -6,7 +6,7 @@
 
 ### About Me :
 
-I am a junior frontend developer
+Frontend developer
 - tryna improving knowledge
 - 19 y.o.
 - living in Russia
